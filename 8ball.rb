@@ -1,3 +1,4 @@
+# Encoding UTF-8
 answers = File.readlines(__dir__ + "/" + "data/answers.txt", chomp: true)
 welcomes = File.readlines(__dir__ + "/" + "data/welcomes.txt", chomp: true)
 
